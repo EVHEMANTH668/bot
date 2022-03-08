@@ -1,6 +1,6 @@
 {
-	"ip":"example.aternos.ip",
+	"ip":"PLAYIT_GAMER_SMP.aternos.me:64820",
 	"port": "25565",
-	"name": "afkbot1",
+	"name": "24/7_bot",
 	"auto-night-skip":"true"
 }
